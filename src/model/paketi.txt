@@ -1,0 +1,30 @@
+Leskovac-X,LK14214
+X-Sombor,PS14329
+X-Vrsac,PV10368
+X-Cacak,JC14726
+X-Jagodina,SJ14740
+Novi Pazar-X,NC10444
+Beograd-X,BP13273
+Beograd-X,BP14024
+Loznica-X,LP13539
+Nis-X,NU10952
+X-Jagodina,SJ11262
+X-Uzice,JU10950
+X-Kikinda,PK12401
+X-Subotica,NS13356
+X-Sombor,US11523
+Novi Sad-X,NV13473
+X-Sombor,SS11455
+Novi Pazar-X,NK14767
+Pristina-X,PK14365
+Novi Sad-X,NN10092
+Uzice-X,UP10252
+X-Leskovac,NL14691
+Vrsac-X,VS14335
+X-Zrenjanin,PZ11683
+X-Subotica,SS13009
+Loznica-X,LS12214
+Zrenjanin-X,ZN13598
+X-Uzice,PU12592
+X-Nis,PN11793
+Pristina-X,PZ13759
